@@ -83,9 +83,13 @@ nav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.profile-content h4 {
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.profile-content h4 { 
+    font-size: 24px;
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .profile-content p {
