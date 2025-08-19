@@ -83,7 +83,7 @@ nav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.profile-content h4 { 
+.profile-content h4 {
     font-size: 24px;
     font-weight: bold;
     margin: 40px auto;
@@ -145,7 +145,8 @@ button:hover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     transition: transform 0.3s, box-shadow 0.3s;
 }
-.education-card:hover{
+
+.education-card:hover {
     transform: scale(1.001);
     box-shadow: 0px 10px 20px rgba(255, 165, 0, 0.5);
 }
@@ -192,7 +193,8 @@ button:hover {
     border-radius: 10px;
     transition: transform 0.3s, box-shadow 0.3s;
 }
-.contact-card:hover{
+
+.contact-card:hover {
     transform: scale(1.02);
     box-shadow: 0px 10px 20px rgba(255, 165, 0, 0.5);
 }
